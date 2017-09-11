@@ -12,10 +12,9 @@ function shout(string) {
   // convert all strings to uppercase letters, then prints it
   console.log(string.toUpperCase());
 }
-/*
+
 function whisper(string) {
   // convert all strings to lowercase letters, then prints it
   var lowercaseLetters = string.toLowerCase()
   console.log(lowercaseLetters)
 }
-*/
