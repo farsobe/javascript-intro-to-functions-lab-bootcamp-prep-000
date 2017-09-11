@@ -19,11 +19,11 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  return string.toLowerCase("I can't hear you!")
+  return string.toLowerCase("I love you, too.")
 }
 
 function sayHiToGrandma(string) {
-  return string.toUpperCase("YES INDEED")
+  return string.toUpperCase("I love you, too.")
 }
 
 function sayHiToGrandma(string) {
