@@ -10,8 +10,7 @@ function whisper(string) {
 
 function shout(string) {
   // convert all strings to uppercase letters, then prints it
-  var capitalLetters = string.toUpperCase()
-  console.log(capitalLetters);
+  console.log(string.toUpperCase());
 }
 /*
 function whisper(string) {
