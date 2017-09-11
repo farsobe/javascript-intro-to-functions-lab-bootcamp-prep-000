@@ -15,6 +15,5 @@ function shout(string) {
 
 function whisper(string) {
   // convert all strings to lowercase letters, then prints it
-  var lowercaseLetters = string.toLowerCase()
-  console.log(lowercaseLetters)
+  console.log(string.toLowerCase())
 }
