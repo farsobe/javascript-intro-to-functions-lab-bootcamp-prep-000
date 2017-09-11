@@ -8,12 +8,12 @@ function whisper(string) {
   return string.toLowerCase()
 }
 
-function shout(string) {
+function logShout(string) {
   // convert all strings to uppercase letters, then prints it
   console.log(string.toUpperCase());
 }
 
-function whisper(string) {
+function logWhisper(string) {
   // convert all strings to lowercase letters, then prints it
   console.log(string.toLowerCase())
 }
